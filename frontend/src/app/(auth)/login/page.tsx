@@ -22,6 +22,7 @@ export default function login() {
             <Label htmlFor="password">Password</Label>
             <Input
               id="password"
+              type="password"
               name="password"
               placeholder="Enter your password.."
             />
