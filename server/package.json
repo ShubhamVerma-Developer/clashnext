@@ -26,6 +26,7 @@
     "ejs": "^3.1.10",
     "express": "^4.21.2",
     "nodemailer": "^6.9.16",
+    "uuid": "^11.0.3",
     "zod": "^3.24.1"
   },
   "devDependencies": {
